@@ -12,7 +12,9 @@ Download the firmware from our master ZMK Firmware Repository: [GCE ZMK Firmware
 
 ### Project Files
 
-All of the KiCad files are provided in the the /KiCad directory. [KiCad Files](/KiCad/)
+All of the KiCad files are provided in the the KiCad directory. [KiCad Files](/KiCad/)
+
+Some of the symbols used may not be present. Make sure you have Seeed Studios' XIAO Kicad Symbol Library and ScottoKeebs Kicad Library. 
 
 ### Production Files
 
